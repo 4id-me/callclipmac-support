@@ -44,3 +44,7 @@ For support inquiries, please [open an issue](https://github.com/4id-me/callclip
 ## Privacy
 
 CallClip for Mac does not collect any personal data. All recordings are stored locally on your device.
+
+---
+
+© 2026 Maksim Efremov
