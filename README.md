@@ -1,8 +1,8 @@
-# CallClip for Mac - Support
+# CallClip Video - Support
 
 ## About
 
-CallClip for Mac is a professional split-screen video interview recording app for macOS.
+CallClip Video is a professional split-screen video interview recording app for macOS.
 
 ## Features
 
@@ -24,7 +24,7 @@ CallClip for Mac is a professional split-screen video interview recording app fo
 ### How do I grant screen recording permission?
 
 1. Open System Settings → Privacy & Security → Screen Recording
-2. Enable CallClip for Mac
+2. Enable CallClip Video
 3. Restart the app
 
 ### How do I replace the background?
@@ -43,7 +43,7 @@ For support inquiries, please [open an issue](https://github.com/4id-me/callclip
 
 ## Privacy
 
-CallClip for Mac does not collect any personal data. All recordings are stored locally on your device.
+CallClip Video does not collect any personal data. All recordings are stored locally on your device.
 
 ---
 

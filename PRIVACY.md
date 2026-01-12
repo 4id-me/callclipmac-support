@@ -4,7 +4,7 @@
 
 ## Overview
 
-CallClip for Mac ("the App") is developed by Maksim Efremov. This privacy policy explains how we handle your data.
+CallClip Video ("the App") is developed by Maksim Efremov. This privacy policy explains how we handle your data.
 
 ## Data Collection
 
